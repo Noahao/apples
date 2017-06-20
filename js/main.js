@@ -3,9 +3,7 @@
  */
 
 let datas = jsonData;
-
 let oNav = $(`nav`)[0];
-
 let oContents = $(`#contents`);
 
 // 遍历数据
